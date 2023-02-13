@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Hello, World" > new_file
+echo "Hello, World"
